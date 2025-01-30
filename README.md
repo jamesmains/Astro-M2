@@ -1,0 +1,2 @@
+#Astro M2
+This game is a remake of an old game I made for a game jam called [Astromouse](https://james-the-mains.itch.io/astromouse). I enjoy remaking older projects to see how far I've progressed as a developer. This project was made in about a day. This was mainly possible due to the strategic reuses of old systems (specifically from [Knight's Chess](https://james-the-mains.itch.io/knights-chess)).
